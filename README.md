@@ -17,7 +17,6 @@ This Android app is developed as part of a Mobile Application Development course
 
 - Java
 - Android Studio
-- Volley for networking
 - PostgreSQL (backend via Node.js & Express)
 
 ## 📡 API Endpoints
